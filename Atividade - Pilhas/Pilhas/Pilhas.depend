@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727014429 source:c:\users\usuario\onedrive\Área de trabalho\atividade - pilhas\pilhas\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
